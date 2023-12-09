@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "/img/avatars/thumb-1.jpg"
+  },
+  {
+    "id": 2,
+    "img": "/img/avatars/thumb-2.jpg"
+  },
+  {
+    "id": 3,
+    "img": "/img/avatars/thumb-3.jpg"
+  },
+  {
+    "id": 4,
+    "img": "/img/avatars/thumb-4.jpg"
+  },
+  {
+    "id": 5,
+    "img": "/img/avatars/thumb-5.jpg"
+  },
+  {
+    "id": 6,
+    "img": "/img/avatars/thumb-6.jpg"
+  },
+  {
+    "id": 7,
+    "img": "/img/avatars/thumb-7.jpg"
+  },
+  {
+    "id": 8,
+    "img": "/img/avatars/thumb-8.jpg"
+  },
+  {
+    "id": 9,
+    "img": "/img/avatars/thumb-9.jpg"
+  },
+  {
+    "id": 10,
+    "img": "/img/avatars/thumb-10.jpg"
+  }
+]
